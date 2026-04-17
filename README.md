@@ -134,8 +134,6 @@ Grad-CAM was used to visualize model attention:
 * Matplotlib
 
 ---
-:
-
 📘 Note
 
 This project was developed for learning and educational purposes to understand:
@@ -150,10 +148,3 @@ The primary goal was to gain hands-on experience in building an end-to-end deep 
 ## 🎯 Conclusion
 
 This project demonstrates how Siamese Neural Networks can be used for **one-shot learning problems**, achieving **~85.8% accuracy** on unseen signature pairs with a computationally efficient approach and added explainability using Grad-CAM.
-
-
-
-If you want, I can next:
-
-✔ Add **images section for Grad-CAM outputs (looks very impressive on GitHub)**
-✔ OR create a **perfect GitHub repo structure (folders + files naming)**
