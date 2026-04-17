@@ -117,7 +117,12 @@ Grad-CAM was used to visualize model attention:
 * Forged signatures → inconsistent or scattered focus
 
 ---
+## Grad-CAM Outputs
 
+![Genuine vs Forged Grad-Cam](images/genuine__forged_gradcam.png)
+
+
+---
 ## 💡 Future Improvements
 * Data augmentation
 * Threshold tuning
